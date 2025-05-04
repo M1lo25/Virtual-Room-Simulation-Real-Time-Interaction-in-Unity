@@ -1,37 +1,36 @@
 # Virtual-Room-Simulation-Real-Time-Interaction-in-Unity
 ---
 
-Questo progetto rappresenta la creazione di un **ambiente 3D interattivo** basato su un soggiorno reale, sviluppato nell'ambito del laboratorio di Realtà Virtuale. È stato modellato in **Blender** a partire da una foto di riferimento e successivamente integrato con elementi interattivi utilizzando il motore grafico **Unity**.
+This project represents the creation of an **interactive 3D environment** based on a real living room, developed as part of the Virtual Reality laboratory. It was modeled in **Blender** starting from a reference photo and later integrated with interactive elements using the **Unity** game engine.
 
-Il progetto include modellazione 3D, texturizzazione realistica, importazione cross-software e programmazione di interazioni dinamiche attraverso script C#.
+The project includes 3D modeling, realistic texturing, cross-software import, and the programming of dynamic interactions through C# scripts.
 
-##  Tecnologie utilizzate
+## Technologies used
 
-- **Blender** – modellazione e texturizzazione
-- **Unity Engine** – importazione, ottimizzazione e scripting
-- **C#** – scripting per eventi interattivi
-- **GIMP/Photoshop** – elaborazione texture (se applicabile)
+- **Blender** – modeling and texturing  
+- **Unity Engine** – import, optimization, and scripting  
+- **C#** – scripting for interactive events  
+- **GIMP/Photoshop** – texture editing (if applicable)
 
-## Caratteristiche implementate
+## Implemented features
 
-### Modellazione
-- Costruzione accurata di oggetti e arredi basati su geometrie primitive.
-- Proporzioni e dimensioni fedeli alla foto originale.
+### Modeling
+- Accurate construction of objects and furniture based on primitive geometries.  
+- Proportions and dimensions faithful to the original photo.
 
-### Texture e Materiali
-- Assegnazione di materiali personalizzati (es. pelle nera alla poltrona, rosa alla sedia).
-- Rendering fotorealistico delle superfici.
+### Textures and Materials
+- Assignment of custom materials (e.g., black leather for the armchair, pink for the chair).  
+- Photorealistic rendering of surfaces.
 
-### Importazione in Unity
-- Esportazione da Blender in formato compatibile.
-- Mantenimento delle proprietà e materiali originali.
-- Ottimizzazione della scena per prestazioni fluide.
+### Import into Unity
+- Export from Blender in compatible format.  
+- Preservation of original properties and materials.  
+- Scene optimization for smooth performance.
 
-### Animazioni e Interattività
-- **Illuminazione:** accensione/spegnimento luci tramite script (switch e tastiera).
-- **Musica:** interazione con la cassa musicale usando il tasto `G`.
-- **Campanello:** suono attivabile con il tasto `E`.
+### Animations and Interactivity
+- **Lighting:** switching lights on/off via script (switch and keyboard).  
+- **Music:** interaction with the speaker using the `G` key.  
+- **Doorbell:** sound triggered with the `E` key.
 
 ---
 > **Author:** Gianluca Milani
-
